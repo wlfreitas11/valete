@@ -1,13 +1,13 @@
 *{
-   margin: 950;
+   margin: 2;
    padding: 950;
    box-sizing: border-box;
    outline: none;
  }
  
  body {
-    width: 800;
-    background: rgba(94, 199, 248, 0.63);
+    width: 9000;
+    background: rgba(16, 187, 144, 0.836);
     font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', Sans-Serif; 
     display: 'flex';
     overflow: hidden;
@@ -16,7 +16,7 @@
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  border: 12px solid blueviolet;
+  border: 12px solid rgb(2, 0, 0);
   margin-top: 10%;
   overflow: hidden;
   display: flex;
@@ -26,7 +26,7 @@
  }
 
 .container {
-   background: gold;
+   background: rgb(32, 9, 185);
    width: 600px;
    display: 'flex';
    flex-direction: column;
@@ -48,7 +48,7 @@
   margin: auto;
   width: 400px;
   padding: 1em;
-  border: 1px salmon;
+  border: 1px rgb(197, 28, 9);
   border-radius: 1em;
   }
 
@@ -68,5 +68,5 @@
    width: 300px;
    -moz-box-sizing: border-box;
    box-sizing: border-box;
-   border: 1px solid #999;
+   border: 1px solid #c70606;
   }
